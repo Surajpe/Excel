@@ -1,0 +1,5 @@
+data--> text to columns
+
+data--> Remove duplicates
+
+Home--> Conditional formatting
