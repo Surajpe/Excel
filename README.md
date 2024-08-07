@@ -1,5 +1,8 @@
-Excel Repository
-Welcome to my Excel repository! This collection is dedicated to showcasing various aspects of Excel, from basic functionalities to advanced data analysis techniques. Below, you'll find a brief overview of the topics covered in this repository.
+Welcome to my Excel repository! 
+
+This collection is dedicated to showcasing various aspects of Excel, from basic functionalities to advanced data analysis techniques. 
+
+Below, you'll find a brief overview of the topics covered in this repository.
 
 **Topics Covered**
 
